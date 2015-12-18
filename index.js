@@ -13,6 +13,7 @@ module.exports = {
     return stew.mv(bootstrapAssetPath('dist/js'), 'bootstrap');
   },
   included: function(app) {
+      app.import('bower_components/tether/dist/js/tether.js');
       var plugins = (app.options.bootstrap || {}).plugins;
       if (Array.isArray(plugins)) {
         plugins.forEach(function(name) {

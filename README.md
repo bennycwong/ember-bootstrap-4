@@ -11,9 +11,12 @@ It is also bower-dependency-free, by loading bootstrap-sass via npm instead. Thi
 
 ## Installation
 
-The point of this addon is to be able to use Bootstrap via sass, so it
+Bootstrap 4 switched from less to sass, so it
 expects that you also have ember-cli-sass installed.
 
+Bootstrap 4 also depends on tether.js. Please install it using bower.
+
+`bower install tether`
 `ember install ember-cli-sass`
 `ember install ember-bootstrap-4`
 
