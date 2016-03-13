@@ -16,9 +16,9 @@ expects that you also have ember-cli-sass installed.
 
 Bootstrap 4 also depends on tether.js. Please install it using bower.
 
-`bower install tether`
-`ember install ember-cli-sass`
-`ember install ember-bootstrap-4`
+    bower install tether
+    ember install ember-cli-sass
+    ember install ember-bootstrap-4
 
 ## Usage: Stylesheets
 
