@@ -1,4 +1,7 @@
 # ember-bootstrap-4
+**This is not maintained.**
+ 
+ 
 This addon is based off [ember-sass-bootstrap](https://github.com/ef4/ember-sass-bootstrap) by ef4.
 
 This is an Ember addon that makes
