@@ -1,6 +1,6 @@
 {
   "name": "ember-bootstrap-4",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -41,7 +41,7 @@
     "ember-addon"
   ],
   "dependencies": {
-    "bootstrap": "v4.0.0-alpha.2",
+    "bootstrap": "^v4.0.0-alpha.4",
     "broccoli-stew": "^1.0.4",
     "ember-cli-babel": "^5.1.5"
   },
